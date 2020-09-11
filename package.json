@@ -65,7 +65,7 @@
     "stylelint": "^6.2.1"
   },
   "devDependencies": {
-    "eslint": "^1.10.3",
+    "eslint": "^7.8.1",
     "ghooks": "^1.0.1",
     "semantic-release": "^4.3.5",
     "travis-after-all": "^1.4.4",
